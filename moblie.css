@@ -1,0 +1,184 @@
+@media only screen and (max-width: 600px) {
+    /* .fixed-top{
+
+} */
+
+    .navbar-container .pw {
+        width: auto;
+    }
+
+    .navbar-container .pw img {
+        padding-top: 0px;
+        padding-right: 0px;
+        width: 25%;
+    }
+
+    .navbar-container .no .font {
+        color: #fff;
+        padding-top: 5px;
+        font-size: 15px;
+        padding-left: 5%;
+    }
+
+    .navbar-container .navbar-colspan i {
+        font-size: 24px;
+        position: relative;
+        right: -260px;
+        display: flex;
+        color: #fff;
+    }
+
+    .navbar-container .navbar-colspan ul li {
+        display: none;
+        position: absolute;
+    }
+
+    .navbar-container .navbar-colspan:hover ul li
+    {
+        display: grid;
+    }
+
+    .btn .btn1 {
+        display: none;
+    }
+
+    .header-section {
+        margin: 0px;
+    }
+
+    /* .main-section{
+        display: none;
+    } */
+
+
+    .main-section .parent-div {
+        max-width: 1520px;
+        display: grid;
+        justify-content: space-around;
+    }
+
+
+    .parent-div .child img {
+        width: 100%;
+    }
+
+    .main-section .heading2 {
+        font-size: 19px;
+
+        font-family: sans-serif;
+    }
+
+    .parent-div .child {
+        width: 100%;
+    }
+
+
+    .sec5 .all-container {
+        display: block;
+    }
+
+    .all-container .container2 {
+        width: 100%;
+    }
+
+
+
+    .demo1 .demo2 {
+        margin: 0px;
+        background-repeat: none;
+    }
+
+
+    .course {
+        display: block;
+    }
+
+    br {}
+
+    .all-course {}
+
+
+    .popular {}
+
+    .popular .row {
+        display: block;
+        /* display: flex; */
+        margin-top: 30px;
+    }
+
+    .row .row1 {
+        width: 87%;
+        margin: 6%;
+
+    }
+
+    .row .row3 {
+        margin: 6%;
+        width: 87%;
+    }
+
+    .row .row5 {
+        width: 87%;
+        margin: 6%;
+
+    }
+
+    .row .row7 {
+        width: 87%;
+        margin: 6%;
+
+    }
+
+    .row .row9 {
+        width: 87%;
+        margin: 6%;
+
+    }
+
+    .row .row11 {
+        width: 87%;
+        margin: 6%;
+
+    }
+
+
+    .all-courses button {
+        margin: 0px 100px;
+    }
+
+
+    .sec2 {
+        margin-top: 30px;
+        /* display: none; */
+    }
+
+    .all-container .container2 {
+        background-image: linear-gradient(to right, #ffe259, #ffa751);
+        font-family: sans-serif;
+        width: 90%;
+        border: 1px solid #fff;
+        margin: auto;
+        text-align: center;
+        margin-top: 30px;
+        height: 150px;
+    }
+
+    .locations {
+        display: none;
+    }
+
+    footer .footer-section {
+        display: grid;
+        justify-content: center;
+        margin: 5% 15%;
+    }
+
+    .footer-section .footer-itam {
+        width: auto;
+    }
+
+    
+
+}
+
+
